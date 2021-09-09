@@ -27,3 +27,17 @@
     box-shadow: 2px 2px 5px #000;
     background: rgba(0,0,0,.1);
 }
+
+.friends {
+    height: 40px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: white;
+}
+
+.friend {
+    display: flex;
+    font-size: 18px;
+    justify-content: space-around;
+    margin-top: 8px;
+}
