@@ -2,3 +2,11 @@
     width: 100px;
     border-radius: 50%;
 }
+
+.users {
+    padding: 15px;
+}
+
+.selectedPage {
+    font-weight: bold;
+}

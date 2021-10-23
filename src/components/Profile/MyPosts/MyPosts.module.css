@@ -5,3 +5,25 @@
 .posts {
     margin-top: 20px;
 }
+
+textarea {
+    resize: none;
+    border-radius: 10px;
+    padding: 5px;
+    width: 700px;
+    height: 30px;
+    outline: none;
+    font-size: 14px;
+}
+
+.buttonAddPost {
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.buttonAddPost:hover {
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.24);
+    padding-bottom: 3px;
+}

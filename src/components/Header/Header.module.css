@@ -2,8 +2,18 @@
     grid-area: header;
     background-color: white;
     text-align: center;
+    padding-right: 15px;
 }
 
 .header img {
     width: 200px;
+}
+
+.loginBlock {
+    float: right;
+    font-size: 25px;
+}
+
+.loginBlock a {
+    color: black;
 }
